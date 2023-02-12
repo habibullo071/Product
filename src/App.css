@@ -1,0 +1,116 @@
+.App {
+    margin: 0 auto;
+    flex-wrap: wrap;
+    background-color: white;
+}
+body{
+    overflow-x: hidden;
+}
+.container {
+    justify-content: right;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    max-width: 1091px;
+    height: 350vw;
+}
+
+.img1 {
+    margin-top: 15px;
+}
+
+.img2 {
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 1020px;
+}
+
+.img3 {
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 105px;
+}
+
+.img41 {
+    position: absolute;
+    margin-top: -2000px;
+    margin-left: 580px;
+}
+
+.img42 {
+    position: absolute;
+    margin-top: -1360px;
+}
+
+.img43 {
+    position: absolute;
+    margin-top: -745px;
+    margin-left: 580px;
+}
+
+.img5 {
+    position: absolute;
+    position: absolute;
+    margin-top: 937px;
+}
+
+.img6 {
+    position: absolute;
+    margin-top: -220px;
+    margin-left: 40px;
+}
+
+.img61 {
+    position: absolute;
+    margin-left: 320px;
+    margin-top: -220px;
+}
+
+.img62 {
+    position: absolute;
+    margin-left: 610px;
+    margin-top: -220px;
+}
+
+.img63 {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -220px;
+}
+
+.img7 {
+    position: absolute;
+    margin-top: 3343px;
+}
+
+.img8 {
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 170px;
+}
+.img81{
+    position: absolute;
+    margin-top: 322px;
+    margin-left: 250px;
+}
+.img82{
+    position: absolute;
+    margin-left: 940px;
+    margin-top: 160px;
+}
+.img83{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 320px;
+}
+.img91{
+    margin-left: -6px;
+    margin-top: 810px;
+}
+.img92{
+    margin-left: 31px;
+}
+.img93{
+    margin-top: 810px;
+    position: absolute;
+    margin-left: 30px;
+}

@@ -1,0 +1,266 @@
+.block {
+    flex-wrap: wrap;
+}
+
+.o {
+    margin: 243px auto;
+    list-style-type: none;
+}
+
+.e {
+    height: 473.4713134765625px;
+    max-width: 1109.828369140625px;
+    margin-top: 150px;
+    margin-left: -40px;
+}
+
+.ey {
+    height: 473.4713134765625px;
+    max-width: 1109.828369140625px;
+    margin-top: 150px;
+    margin-left: 637px;
+    justify-content: righ;
+}
+
+.option {
+    height: 24px;
+    max-width: 189px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #22343D;
+
+}
+
+.q {
+    max-width: 224px;
+    height: 48px;
+
+    margin-top: 8px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    color: #22343D;
+}
+
+.y {
+    height: 52px;
+    max-width: 486px;
+    margin-top: 38px;
+
+}
+
+.quick {
+    position: absolute;
+    width: 1400px;
+    margin-left: -154px;
+    text-align: center;
+    background: #e5e5e50e;
+}
+
+.hash {
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.has {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.i {
+    height: 53px;
+    width: 274px;
+    border-radius: 26.5px;
+    margin-left: 354px;
+    margin-top: -10px;
+    position: absolute;
+    background: transparent;
+    box-shadow: 0px 2px 15px rgba(23, 58, 86, 0.1);
+    border-radius: 26.5px;
+}
+
+.i h5 {
+    margin: 13px auto;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0px;
+}
+
+.can {
+    height: 53px;
+    width: 274px;
+    border-radius: 26.5px;
+    position: absolute;
+    margin-top: 165px;
+    margin-left: 114px;
+    background: transparent;
+    box-shadow: 0px 2px 15px rgba(23, 58, 86, 0.1);
+    border-radius: 26.5px;
+}
+
+.can h5 {
+    margin: 13px auto;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0px;
+}
+
+.take {
+    height: 53px;
+    width: 274px;
+    border-radius: 26.5px;
+    position: absolute;
+    margin-top: px;
+    margin-left: 806px;
+    background: transparent;
+    box-shadow: 0px 2px 15px rgba(23, 58, 86, 0.1);
+    border-radius: 26.5px;
+}
+
+.take h5 {
+    margin: 13px auto;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0px;
+}
+
+.care {
+    height: 53px;
+    width: 274px;
+    border-radius: 26.5px;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 922px;
+    background: transparent;
+    box-shadow: 0px 2px 15px rgba(23, 58, 86, 0.1);
+    border-radius: 26.5px;
+}
+.care h5{
+    margin: 13px auto;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0px;
+}
+
+.contact {
+    height: 53px;
+    width: 216px;
+    background: #02897A;
+    margin-top: 300px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
+
+.content {
+    margin: 150px auto;
+    height: 556px;
+    width: 1107.5px;
+}
+
+.contents {
+    height: 51px;
+    width: 349px;
+    font-family: Poppins;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 51px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #22343D;
+}
+
+.we {
+    height: 26px;
+    width: 693px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: left;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img {
+    height: 359px;
+    width: 348px;
+    border-radius: 8px;
+    border: 1px solid grey;
+}
+
+.wohid {
+    height: 28px;
+    width: 235px;
+    margin-left: 24px;
+    margin-top: 209px;
+    border-radius: nullpx;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    
+}
+
+.icr {
+    height: 70px;
+    width: 294px;
+    margin-left: 24px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0px;
+    text-align: left;
+    
+}
+.df{
+    display: flex;
+    justify-content: center;
+}
+.nuqta{
+    margin-top: 64px;
+    display: flex;
+    width: 16px;
+    margin-left: 10px;
+    height: 16px;
+    border-radius: 50%;
+    background: #EFEFEF;
+
+}
+.nuqt{
+    display: flex;
+    width: 16px;
+    margin-top: 64px;
+    background: #02897A;
+    margin-left: 10px;
+    height: 16px;
+    border-radius: 50%;
+}
